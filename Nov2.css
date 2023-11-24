@@ -1,0 +1,22 @@
+#pass{
+    color: blue;
+}
+
+button{
+    background-color: burlywood;
+    color: darkred;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 5s;
+ 
+}
+
+button :hover{
+    background-color: aqua;
+    color: pink;
+
+}
+
+body{
+    background-color: cadetblue;
+}
